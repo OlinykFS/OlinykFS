@@ -19,4 +19,4 @@ Hello! My name is Oleh. I am a Full stack developer who creates websites using t
 
 ## My stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeHeronWater&layout=compact&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OlinykFS&layout=compact&theme=vision-friendly-dark)
