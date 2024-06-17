@@ -1,5 +1,5 @@
 # Hello! I'm a Full Stack Developer
-Hello! My name is Oleh. I am a Full stack developer who creates websites using technologies such as Html, Scss, JavaScript, Java Spring, PHP and WordPress.
+<b>Hello! My name is Oleh. I am a Full stack developer who creates websites using technologies such as Html, Scss, JavaScript, Java Spring, PHP and WordPress.</b>
 
 ##
 
@@ -11,11 +11,19 @@ Hello! My name is Oleh. I am a Full stack developer who creates websites using t
 ![Scss](https://img.shields.io/badge/-Scss-090909?style=for-the-badge&logo=Sass&logoColor=ff009d)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![Php](https://img.shields.io/badge/-Php-090909?style=for-the-badge&logo=PHP&logoColor=0088ff)
-![WordPress](https://img.shields.io/badge/-WordPress-090909?style=for-the-badge&logo=WordPress&logoColor=4d4f61)
+![Java](https://img.shields.io/badge/java-090909.svg?style=for-the-badge&logo=openjdk&logoColor=%23CC342D)
+![WordPress](https://img.shields.io/badge/-WordPress-090909?style=for-the-badge&logo=WordPress&logoColor=4d4f61)<br>
+![MySQL](https://img.shields.io/badge/mysql-090909.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-090909.svg?style=for-the-badge&logo=figma&logoColor=%234B275F)
+![Spring](https://img.shields.io/badge/spring-090909.svg?style=for-the-badge&logo=spring&logoColor=%23008080)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-090909.svg?style=for-the-badge&logo=Thymeleaf&logoColor=%23008080)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-090909.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-090909.svg?style=for-the-badge&logo=visual-studio-code&logoColor=3670A0)   <br>
 
-### Follow me
-
+### Follow me 
+[![Discord](https://img.shields.io/badge/Discord-090909.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/700598145096220782/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/oleh-oliinyk-1b75662b6/)
+[![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Parazko)
 
 ## My stats
 
