@@ -21,7 +21,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-090909.svg?style=for-the-badge&logo=visual-studio-code&logoColor=3670A0)   <br>
 
 ### Follow me 
-[![Discord](https://img.shields.io/badge/Discord-090909.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/700598145096220782/)
+<a href="https://discordapp.com/users/700598145096220782/"><img src="https://img.shields.io/badge/Discord-090909.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Stars Badge"/></a>
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/oleh-oliinyk-1b75662b6/)
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Parazko)
 
