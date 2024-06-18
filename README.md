@@ -1,5 +1,5 @@
 # Hello! I'm a Full Stack Developer
-<b>Hello! My name is Oleh. I am a Full stack developer who creates websites using technologies such as Html, Scss, JavaScript, Java Spring, PHP and WordPress.</b>
+<b>Hello! My name is Oleh. I am a Full stack developer who creates websites using technologies such as Html, Scss, JavaScript, Java, Spring, PHP and WordPress.</b>
 
 ##
 
