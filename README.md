@@ -16,9 +16,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-090909.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-090909.svg?style=for-the-badge&logo=figma&logoColor=%234B275F)
 ![Spring](https://img.shields.io/badge/spring-090909.svg?style=for-the-badge&logo=spring&logoColor=%23008080)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-090909.svg?style=for-the-badge&logo=Thymeleaf&logoColor=%23008080)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-090909.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-090909.svg?style=for-the-badge&logo=visual-studio-code&logoColor=3670A0)   <br>
+
 
 ### Follow me 
 
