@@ -18,6 +18,7 @@
 ![Spring](https://img.shields.io/badge/spring-090909.svg?style=for-the-badge&logo=spring&logoColor=%23008080)
 ![python](https://img.shields.io/badge/python-090909.svg?style=for-the-badge&logo=python&logoColor=%)
 ![flask](https://img.shields.io/badge/flask-090909.svg?style=for-the-badge&logo=flask&logoColor=%)
+![django](https://img.shields.io/badge/django-090909.svg?style=for-the-badge&logo=django&logoColor=%)
 
 
 ### Follow me 
