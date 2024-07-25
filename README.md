@@ -19,6 +19,7 @@
 ![python](https://img.shields.io/badge/python-090909.svg?style=for-the-badge&logo=python&logoColor=%)
 ![flask](https://img.shields.io/badge/flask-090909.svg?style=for-the-badge&logo=flask&logoColor=%)
 ![django](https://img.shields.io/badge/django-090909.svg?style=for-the-badge&logo=django&logoColor=%)
+![react](https://img.shields.io/badge/react-090909.svg?style=for-the-badge&logo=react&logoColor=%)<br>
 
 
 ### Follow me 
