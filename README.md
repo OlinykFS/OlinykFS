@@ -1,5 +1,5 @@
 # Hello! I'm a Full Stack Developer
-<b>Hello! My name is Oleh. I am a Full stack developer who creates websites using technologies such as Html5, Scss, Css3, JavaScript, Java, Spring, PHP and WordPress.</b>
+<b>Hello! My name is Oleh. I am a Full stack developer who creates websites using technologies such as Html5, Scss/Css3/Tailwind, JavaScript, React, Python, Django, Flask</b>
 
 ##
 
@@ -10,12 +10,8 @@
 ![Css](https://img.shields.io/badge/-Css-090909?style=for-the-badge&logo=CSS3&logoColor=4287f5)
 ![Scss](https://img.shields.io/badge/-Scss-090909?style=for-the-badge&logo=Sass&logoColor=ff009d)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
-![Php](https://img.shields.io/badge/-Php-090909?style=for-the-badge&logo=PHP&logoColor=0088ff)
-![Java](https://img.shields.io/badge/java-090909.svg?style=for-the-badge&logo=openjdk&logoColor=%23CC342D)
-![WordPress](https://img.shields.io/badge/-WordPress-090909?style=for-the-badge&logo=WordPress&logoColor=4d4f61)<br>
 ![MySQL](https://img.shields.io/badge/mysql-090909.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-090909.svg?style=for-the-badge&logo=figma&logoColor=%234B275F)
-![Spring](https://img.shields.io/badge/spring-090909.svg?style=for-the-badge&logo=spring&logoColor=%23008080)
 ![python](https://img.shields.io/badge/python-090909.svg?style=for-the-badge&logo=python&logoColor=%)
 ![flask](https://img.shields.io/badge/flask-090909.svg?style=for-the-badge&logo=flask&logoColor=%)
 ![django](https://img.shields.io/badge/django-090909.svg?style=for-the-badge&logo=django&logoColor=%)
