@@ -1,7 +1,7 @@
 ![Banner](https://raw.githubusercontent.com/OlinykFS/OlinykFS/main/banner.svg)
 
 
-<a href="https://olinykfs.github.io/portfolioV1/" style="text-decoration: none;"><b>Hello!</a> My name is Oleh. I am a Full stack developer who creates websites using technologies such as Html5, Scss/Css3/Tailwind, JavaScript, React, Python, Django, Flask</b>
+### <a href="https://olinykfs.github.io/portfolioV1/" style="text-decoration: none;"><b>Hello!</a> My name is Oleh. I am a Full stack developer who creates websites using technologies such as Html5, Scss/Css3/Tailwind, JavaScript, React, Python, Django, Flask</b>
 
 ##
 
