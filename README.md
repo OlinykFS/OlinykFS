@@ -1,4 +1,5 @@
-![Frame 77064090](https://github.com/user-attachments/assets/ecb5d9d4-88da-450f-ad41-4b96e5e39648)
+![Banner](https://raw.githubusercontent.com/OlinykFS/OlinykFS/main/banner.svg)
+
 
 <a href="https://olinykfs.github.io/portfolioV1/" style="text-decoration: none;"><b>Hello!</a> My name is Oleh. I am a Full stack developer who creates websites using technologies such as Html5, Scss/Css3/Tailwind, JavaScript, React, Python, Django, Flask</b>
 
