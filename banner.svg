@@ -1,146 +1,107 @@
 <svg fill="none" viewBox="0 0 1016 204" width="1016" height="204" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
-        * {
-        margin: 0;
-        padding: 0;
-        box-sizing: border-box;
-        }
-        .body {
-        --color-main: #fff;
-        --color-background: #141414;
-        width: 100%;
-        height: 200px;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        background: radial-gradient(circle, #141414, #0a0a0a, #000000);
-        position: relative;
-        overflow: hidden;
-        animation: backgroundAnimation 6s ease-in-out infinite;
-        }
-
-        .container {
-        text-align: center;
-        color: var(--color-main);
-        z-index: 1;
-        }
-
-        h1 {
-        font-size: 3rem;
-        font-weight: 500;
-        font-family: "Arial", sans-serif;
-        letter-spacing: 2px;
-        text-transform: uppercase;
-        animation: fadeIn 3s ease-in-out forwards;
-        }
-
-        h2 {
-        font-size: 1.25rem;
-        font-weight: 400;
-        font-family: "Arial", sans-serif;
-        color: #a0a0a0;
-        margin-top: 10px;
-        animation: fadeIn 3s ease-in-out forwards;
-        }
-
-        @keyframes backgroundAnimation {
-        0%, 100% {
-        background-position: 0 0;
-        }
-        50% {
-        background-position: 100% 100%;
-        }
-        }
-
-        @keyframes fadeIn {
-        0% {
-        opacity: 0;
-        transform: translateY(20px);
-        }
-        100% {
-        opacity: 1;
-        transform: translateY(0);
-        }
-        }
-
-
-        .stars {
-        position: absolute;
-        top: 0;
-        left: 0;
-        width: 100%;
-        height: 100%;
-        background: transparent;
-        }
-
-        .star {
-        position: absolute;
-        width: 2px;
-        height: 2px;
-        background: white;
-        border-radius: 50%;
-        opacity: 0;
-        animation: starTwinkle 2s infinite ease-in-out;
-        }
-
-        .star:nth-child(1) {
-        top: 10%;
-        left: 20%;
-        animation-delay: 1s;
-        }
-
-        .star:nth-child(2) {
-        top: 40%;
-        left: 50%;
-        animation-delay: 0.5s;
-        }
-
-        .star:nth-child(3) {
-        top: 70%;
-        left: 80%;
-        animation-delay: 1.5s;
-        }
-
-        .star:nth-child(4) {
-        top: 20%;
-        left: 80%;
-        animation-delay: 1.8s;
-        }
-
-        .star:nth-child(5) {
-        top: 60%;
-        left: 30%;
-        animation-delay: 2s;
-        }
-
-        @keyframes starTwinkle {
-        0%, 100% {
-        opacity: 0;
-        }
-        50% {
-        opacity: 1;
-        }
-        }
-
-      </style>
-
-      <div class="body">
-
-        <div class="stars">
-          <div class="star"></div>
-          <div class="star"></div>
-          <div class="star"></div>
-          <div class="star"></div>
-          <div class="star"></div>
+      <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <style>
+            @keyframes fadeIn {
+              from { opacity: 0; transform: translateY(20px); }
+              to { opacity: 1; transform: translateY(0); }
+            }
+            @keyframes twinkle {
+              0%, 100% { opacity: 0.1; }
+              50% { opacity: 1; }
+            }
+            @keyframes float {
+              0%, 100% { transform: translateY(0); }
+              50% { transform: translateY(-5px); }
+            }
+            @keyframes glow {
+              0%, 100% { opacity: 0.5; }
+              50% { opacity: 1; }
+            }
+            * {
+              margin: 0;
+              padding: 0;
+              box-sizing: border-box;
+            }
+            .body {
+              width: 100%;
+              height: 204px;
+              display: flex;
+              flex-direction: column;
+              justify-content: center;
+              align-items: center;
+              background-color: #000000;
+              position: relative;
+              overflow: hidden;
+            }
+            .container {
+              text-align: center;
+              color: #ffffff;
+              z-index: 2;
+              position: relative;
+            }
+            h1 {
+              font-size: 3rem;
+              font-weight: 500;
+              font-family: "Arial", sans-serif;
+              letter-spacing: 2px;
+              text-transform: uppercase;
+              animation: fadeIn 2s ease-out forwards, float 4s ease-in-out infinite;
+              text-shadow: 0 0 10px rgba(255, 255, 255, 0.5);
+            }
+            h2 {
+              font-size: 1.25rem;
+              font-weight: 400;
+              font-family: "Arial", sans-serif;
+              color: #a0a0a0;
+              margin-top: 10px;
+              animation: fadeIn 2s ease-out 0.5s forwards;
+              opacity: 0;
+            }
+            .star {
+              position: absolute;
+              width: 2px;
+              height: 2px;
+              background: white;
+              border-radius: 50%;
+              opacity: 0.1;
+              animation: twinkle 5s infinite ease-in-out;
+            }
+            .star:nth-child(1) { top: 10%; left: 5%; }
+            .star:nth-child(2) { top: 15%; left: 95%; animation-delay: 1s; }
+            .star:nth-child(3) { top: 80%; left: 10%; animation-delay: 2s; }
+            .star:nth-child(4) { top: 75%; left: 90%; animation-delay: 3s; }
+            .star:nth-child(5) { top: 30%; left: 20%; animation-delay: 4s; }
+            .star:nth-child(6) { top: 25%; left: 80%; animation-delay: 2.5s; }
+            .star:nth-child(7) { top: 60%; left: 5%; animation-delay: 1.5s; }
+            .star:nth-child(8) { top: 70%; left: 95%; animation-delay: 3.5s; }
+            .glow {
+              position: absolute;
+              width: 300px;
+              height: 100px;
+              background: radial-gradient(ellipse at center, rgba(255,255,255,0.1) 0%, rgba(255,255,255,0) 70%);
+              top: 50%;
+              left: 50%;
+              transform: translate(-50%, -50%);
+              z-index: 1;
+              animation: glow 4s infinite ease-in-out;
+            }
+          </style>
+          <div class="body">
+            <div class="star"></div>
+            <div class="star"></div>
+            <div class="star"></div>
+            <div class="star"></div>
+            <div class="star"></div>
+            <div class="star"></div>
+            <div class="star"></div>
+            <div class="star"></div>
+            <div class="glow"></div>
+            <div class="container">
+              <h1>OLEG OLIINYK</h1>
+              <h2>Full-Stack WordPress Developer &amp; Designer</h2>
+            </div>
+          </div>
         </div>
-
-        <div class="container">
-          <h1>Oleg Oliinyk</h1>
-          <h2>Full-Stack WordPress Developer &amp; Designer</h2>
-        </div>
-      </div>
-    </div>
-  </foreignObject>
-</svg>
+      </foreignObject>
+    </svg>
