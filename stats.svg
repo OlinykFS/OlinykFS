@@ -1,0 +1,22 @@
+<svg width="100%" height="150" xmlns="http://www.w3.org/2000/svg">
+   <rect width="100%" height="100%" />
+   <foreignObject width="50%" height="150">
+
+     <body xmlns="http://www.w3.org/1999/xhtml">
+       <img src="https://leetcard.jacoblin.cool/OlinykFs?theme=transparent" height="150px" />
+     </body>
+   </foreignObject>
+   <foreignObject width="50%" height="150" x="50%">
+     <style>
+       .bg {
+         fill: none;
+       }
+     </style>
+
+     <body xmlns="http://www.w3.org/1999/xhtml">
+       <img
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=olinykfs&amp;layout=compact&amp;theme=vision-friendly-dark&amp;hide=css,html,scss"
+         height="150px" />
+     </body>
+   </foreignObject>
+ </svg>
