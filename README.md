@@ -1,14 +1,14 @@
 [![Banner](https://raw.githubusercontent.com/OlinykFS/OlinykFS/main/banner.svg)](https://olinykfs.github.io/portfolioV2/)
 
 
-### <p><a href="https://olinykfs.github.io/portfolioV2/" style="text-decoration: none;"><b>Hello!</a> My name is Oleh. I am a Full stack developer who creates websites and turning your ideas into functional solutions.</p>
+### <p><a href="https://olinykfs.github.io/portfolioV2/" style="text-decoration: none;">Hello! My name is Oleh.</a> I am a Full stack developer who creates websites and turning your ideas into functional solutions.</p>
 ##
 
 ### Languages and Tools:
 
 ### My Skills:
 
-<table height="200px">
+<table align="center" height="200px">
   <tr>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40" alt="JavaScript" />
@@ -59,10 +59,11 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/oleh-oliinyk-1b75662b6/)
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Parazko)
 
+
 ##
 
 ### My stats:
-<div width="100%">
+<div align="center" width="100%">
   <a align="left" href="https://leetcode.com/OlinykFs/">
     <img src="https://leetcard.jacoblin.cool/OlinykFs?theme=transparent" alt="Leetcode Stats" height="150px" />
   </a> 
