@@ -1,6 +1,4 @@
-[![Banner](https://raw.githubusercontent.com/OlinykFS/OlinykFS/main/banner.svg)](https://olinykfs.github.io/portfolioV2/)
-
-# 👨🏻‍💻 Oleh Olinyk
+# 👨🏻‍💻 Oleh Oliinyk
 >**`Java Backend Developer`**
 
 I’m a Java Backend Developer, creating reliable and scalable server-side solutions. I use a tech stack including Java, Spring, Hibernate, PostgreSQL, MySQL, Redis, REST API, Docker, Kubernetes, JUnit, and Mockito to build high-quality applications with a focus on performance and security.
